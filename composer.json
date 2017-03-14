@@ -1,0 +1,14 @@
+{
+    "name": "idhostinger/blank-app",
+    "description": "Example Application to Deploy On Hostinger",
+    "require": {
+       "guzzlehttp/guzzle": "~6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "user hostinger",
+            "email": "user@hosting.er"
+        }
+    ]
+}
